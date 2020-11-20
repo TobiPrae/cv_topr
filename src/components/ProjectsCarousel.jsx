@@ -41,14 +41,14 @@ const ProjectsCarousel = () => {
         showArrows={true}
         transitionTime={300}
       >
-        <div style={{ marginTop: 20 }}>
+        <div style={{ marginTop: 20, marginBottom: 100  }}>
           <h3 style={{ color: "black" }}>Building a Dashboard for Sales Prediction and Inventory Management</h3>
           <img
             className={classes.image}
             src={InventoryManagement}
             alt="inventory_management"
           />
-          <p style={{ color: "black" }}>
+          <p style={{ color: "black", padding: 20 }}>
             This is a group project that I have completed with fellow students
             from march to october 2019. We developed a dashboard to analyze and
             predict sales for a company that sells wall paints and accessoires.
@@ -57,21 +57,21 @@ const ProjectsCarousel = () => {
           </p>
           <Grid container item xs={12}>
             <Grid item xs={4}>
-              <img src={R} alt="r" style={{ width: "auto", height: 80 }} />
+              <img src={R} alt="r" style={{ width: "auto", height: 70 }} />
             </Grid>
 
             <Grid item xs={4} justify="center">
               <img
                 src={Shiny}
                 alt="shiny"
-                style={{ width: "auto", height: 80 }}
+                style={{ width: "auto", height: 70 }}
               />
             </Grid>
             <Grid item xs={4} justify="center">
               <img
                 src={Python}
                 alt="python"
-                style={{ width: "auto", height: 80 }}
+                style={{ width: "auto", height: 70 }}
               />
             </Grid>
           </Grid>
@@ -83,7 +83,7 @@ const ProjectsCarousel = () => {
             src={Thesis}
             alt="thesis"
           />
-          <p style={{ color: "black" }}>
+          <p style={{ color: "black", padding: 20 }}>
           The research goal of my masters thesis was to investigate which factors influence the Bitcoin price. Over a period of 6 months I crawled data from various sources like Twitter, Reddit and news websites to perform sentiment analysis. I used various features such as sentiments or the number of search queries on Google to predict Bitcoin prices. The results show my neural network model performed better than common regression approaches.
           </p>
           <Grid container item xs={12}>
@@ -98,14 +98,14 @@ const ProjectsCarousel = () => {
               <img
                 src={Pandas}
                 alt="pandas"
-                style={{ width: "auto", height: 90 }}
+                style={{ width: "auto", height: 70 }}
               />
             </Grid>
             <Grid item xs={4}>
               <img
                 src={Keras}
                 alt="keras"
-                style={{ width: "auto", height: 40 }}
+                style={{ width: "auto", height: 50 }}
               />
             </Grid>
           </Grid>
@@ -121,20 +121,20 @@ const ProjectsCarousel = () => {
             src={Dimop}
             alt="Dimop"
           />
-          <p style={{ color: "black" }}>The lack of recyclability of plastic products is a major problem in our society today. This tool is designed to support the development process of plastic products by providing designers with multi-criteria decision making methods. It is possible to create several bills of material and compare them with regard to several competing criteria, such as recyclability, CO2 emissions or production costs. </p>
+          <p style={{ color: "black", padding: 20 }}>The lack of recyclability of plastic products is a major problem in our society today. This tool is designed to support the development process of plastic products by providing designers with multi-criteria decision making methods. It is possible to create several bills of material and compare them with regard to several competing criteria, such as recyclability, CO2 emissions or production costs. </p>
           <Grid container item xs={12}>
             <Grid item xs={4}>
               <img
                 src={ReactLogo}
                 alt="react-logo"
-                style={{ width: "auto", height: 80 }}
+                style={{ width: "auto", height: 70 }}
               />
             </Grid>
             <Grid item xs={4}>
               <img
                 src={Flask}
                 alt="flask"
-                style={{ width: "auto", height: 130 }}
+                style={{ width: "auto", height: 70 }}
               />
             </Grid>
             <Grid item xs={4}>
