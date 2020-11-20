@@ -11,10 +11,7 @@ import GitHub from "/Users/top63vj/cv_topr/src/files/github.png";
 
 const useStyles = makeStyles((theme) => ({
   contact: {
-
     color: "white",
-  
-
   },
 }));
 
@@ -42,7 +39,7 @@ const Contact = () => {
             <img
               src={GitHub}
               alt="github"
-              style={{ width: "auto", height: 20}}
+              style={{ width: "auto", height: 15}}
             />
           </a>
         </Grid>
@@ -54,7 +51,7 @@ const Contact = () => {
             <img
               src={Xing}
               alt="xing"
-              style={{ width: "auto", height: 30}}
+              style={{ width: "auto", height: 20}}
             />
           </a>
         </Grid>

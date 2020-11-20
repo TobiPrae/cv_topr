@@ -47,17 +47,18 @@ const ProjectsCarousel = () => {
             className={classes.image}
             src={InventoryManagement}
             alt="inventory_management"
+            style={{padding: 30}}
           />
-          <p style={{ color: "black", padding: 20 }}>
+          <p style={{ color: "black", padding: 30 }}>
             This is a group project that I have completed with fellow students
             from march to october 2019. We developed a dashboard to analyze and
             predict sales for a company that sells wall paints and accessoires.
             My main focus was the implementation of a integrated inventory
             management model.
           </p>
-          <Grid container item xs={12}>
+          <Grid container item xs={12} justify="center" alignItems="center">
             <Grid item xs={4}>
-              <img src={R} alt="r" style={{ width: "auto", height: 70 }} />
+              <img src={R} alt="r" style={{ width: "auto", height: 65 }} />
             </Grid>
 
             <Grid item xs={4} justify="center">
@@ -82,16 +83,17 @@ const ProjectsCarousel = () => {
             className={classes.image}
             src={Thesis}
             alt="thesis"
+            style={{padding: 30}}
           />
-          <p style={{ color: "black", padding: 20 }}>
+          <p style={{ color: "black", padding: 30 }}>
           The research goal of my masters thesis was to investigate which factors influence the Bitcoin price. Over a period of 6 months I crawled data from various sources like Twitter, Reddit and news websites to perform sentiment analysis. I used various features such as sentiments or the number of search queries on Google to predict Bitcoin prices. The results show my neural network model performed better than common regression approaches.
           </p>
-          <Grid container item xs={12}>
+          <Grid container item xs={12} justify="center" alignItems="center">
             <Grid item xs={4}>
               <img
                 src={TensorFlow}
                 alt="tf"
-                style={{ width: "auto", height: 80 }}
+                style={{ width: "auto", height: 70 }}
               />
             </Grid>
             <Grid item xs={4}>
@@ -120,14 +122,15 @@ const ProjectsCarousel = () => {
             className={classes.image}
             src={Dimop}
             alt="Dimop"
+            style={{padding: 30}}
           />
-          <p style={{ color: "black", padding: 20 }}>The lack of recyclability of plastic products is a major problem in our society today. This tool is designed to support the development process of plastic products by providing designers with multi-criteria decision making methods. It is possible to create several bills of material and compare them with regard to several competing criteria, such as recyclability, CO2 emissions or production costs. </p>
-          <Grid container item xs={12}>
+          <p style={{ color: "black", padding: 30 }}>The lack of recyclability of plastic products is a major problem in our society today. This tool is designed to support the development process of plastic products by providing designers with multi-criteria decision making methods. It is possible to create several bills of material and compare them with regard to several competing criteria, such as recyclability, CO2 emissions or production costs. </p>
+          <Grid container item xs={12} justify="center" alignItems="center">
             <Grid item xs={4}>
               <img
                 src={ReactLogo}
                 alt="react-logo"
-                style={{ width: "auto", height: 70 }}
+                style={{ width: "auto", height: 65 }}
               />
             </Grid>
             <Grid item xs={4}>

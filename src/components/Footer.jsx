@@ -21,7 +21,7 @@ const Footer = () => {
     <div className={classes.footer}>
       <Grid container item xs={12} justify="center">
         <p >
-          This app was built with React – © 2020 Tobias Prätori{" "}
+          This website was built with React – © 2020 Tobias Prätori{" "}
         </p>
       </Grid>
 
