@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/cv_topr/static/css/main.5d4adf86.chunk.css",
+    "main.js": "/cv_topr/static/js/main.06684e3a.chunk.js",
+    "main.js.map": "/cv_topr/static/js/main.06684e3a.chunk.js.map",
+    "runtime-main.js": "/cv_topr/static/js/runtime-main.0050cfb0.js",
+    "runtime-main.js.map": "/cv_topr/static/js/runtime-main.0050cfb0.js.map",
+    "static/js/2.d39714ca.chunk.js": "/cv_topr/static/js/2.d39714ca.chunk.js",
+    "static/js/2.d39714ca.chunk.js.map": "/cv_topr/static/js/2.d39714ca.chunk.js.map",
+    "static/js/3.31544aa2.chunk.js": "/cv_topr/static/js/3.31544aa2.chunk.js",
+    "static/js/3.31544aa2.chunk.js.map": "/cv_topr/static/js/3.31544aa2.chunk.js.map",
+    "index.html": "/cv_topr/index.html",
+    "static/css/main.5d4adf86.chunk.css.map": "/cv_topr/static/css/main.5d4adf86.chunk.css.map",
+    "static/js/2.d39714ca.chunk.js.LICENSE.txt": "/cv_topr/static/js/2.d39714ca.chunk.js.LICENSE.txt",
+    "static/media/SmartCas.5c744843.png": "/cv_topr/static/media/SmartCas.5c744843.png",
+    "static/media/App.css": "/cv_topr/static/media/background1.5af6d1a4.jpg",
+    "static/media/dimop.38a6bbc2.png": "/cv_topr/static/media/dimop.38a6bbc2.png",
+    "static/media/github.960ff24f.png": "/cv_topr/static/media/github.960ff24f.png",
+    "static/media/im.b03a176d.png": "/cv_topr/static/media/im.b03a176d.png",
+    "static/media/keras.a4b05266.png": "/cv_topr/static/media/keras.a4b05266.png",
+    "static/media/linkedin.15089141.png": "/cv_topr/static/media/linkedin.15089141.png",
+    "static/media/pandas.1b6cec7a.png": "/cv_topr/static/media/pandas.1b6cec7a.png",
+    "static/media/python.f22d1fce.png": "/cv_topr/static/media/python.f22d1fce.png",
+    "static/media/r.2cbb015d.png": "/cv_topr/static/media/r.2cbb015d.png",
+    "static/media/react.4bd8e556.png": "/cv_topr/static/media/react.4bd8e556.png",
+    "static/media/shiny.e7a8ecc4.png": "/cv_topr/static/media/shiny.e7a8ecc4.png",
+    "static/media/sql.6d6e8e2b.png": "/cv_topr/static/media/sql.6d6e8e2b.png",
+    "static/media/tf.4bacc43f.png": "/cv_topr/static/media/tf.4bacc43f.png",
+    "static/media/thesis.e7b23026.png": "/cv_topr/static/media/thesis.e7b23026.png",
+    "static/media/xing.5582737c.png": "/cv_topr/static/media/xing.5582737c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0050cfb0.js",
+    "static/js/2.d39714ca.chunk.js",
+    "static/css/main.5d4adf86.chunk.css",
+    "static/js/main.06684e3a.chunk.js"
+  ]
+}
