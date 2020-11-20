@@ -1,21 +1,21 @@
 import React from "react";
 
 import { Carousel } from "react-responsive-carousel";
-import "/Users/top63vj/cv_topr/src/components/carousel.min.css";
+import "/Users/top63vj/Documents/GitHub/cv_topr/src/components/carousel.min.css";
 
 //files
-import InventoryManagement from "/Users/top63vj/cv_topr/src/files/im.png";
-import Thesis from "/Users/top63vj/cv_topr/src/files/thesis.png";
-import Dimop from "/Users/top63vj/cv_topr/src/files/dimop.png";
-import Shiny from "/Users/top63vj/cv_topr/src/files/shiny.png";
-import R from "/Users/top63vj/cv_topr/src/files/r.png";
-import Python from "/Users/top63vj/cv_topr/src/files/python.png";
-import TensorFlow from "/Users/top63vj/cv_topr/src/files/tf.png";
-import Keras from "/Users/top63vj/cv_topr/src/files/keras.png";
-import Pandas from "/Users/top63vj/cv_topr/src/files/pandas.png";
-import ReactLogo from "/Users/top63vj/cv_topr/src/files/react.png";
-import Flask from "/Users/top63vj/cv_topr/src/files/flask.png";
-import SQL from "/Users/top63vj/cv_topr/src/files/sql.png";
+import InventoryManagement from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/im.png";
+import Thesis from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/thesis.png";
+import Dimop from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/dimop.png";
+import Shiny from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/shiny.png";
+import R from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/r.png";
+import Python from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/python.png";
+import TensorFlow from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/tf.png";
+import Keras from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/keras.png";
+import Pandas from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/pandas.png";
+import ReactLogo from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/react.png";
+import Flask from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/flask.png";
+import SQL from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/sql.png";
 
 //material UI
 import { makeStyles } from "@material-ui/core/styles";

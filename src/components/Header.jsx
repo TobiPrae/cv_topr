@@ -1,7 +1,7 @@
 import React from "react";
 
 //files
-import SmartCas from "/Users/top63vj/cv_topr/src/files/SmartCas.png";
+import SmartCas from "/Users/top63vj/Documents/GitHub/cv_topr/src/files/SmartCas.png";
 
 //material UI
 import { makeStyles } from "@material-ui/core/styles";

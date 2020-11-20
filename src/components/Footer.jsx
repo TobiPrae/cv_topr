@@ -2,7 +2,7 @@ import React from "react";
 
 import { makeStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
-import Contact from "/Users/top63vj/cv_topr/src/components/Contact.jsx";
+import Contact from "/Users/top63vj/Documents/GitHub/cv_topr/src/components/Contact.jsx";
 
 const useStyles = makeStyles((theme) => ({
   footer: {

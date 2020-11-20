@@ -28,16 +28,10 @@ function App() {
             <ProjectsCarousel></ProjectsCarousel>
           </Grid>
           <Grid item xs={2}></Grid>
+          
         </Grid>
-
-        <Grid container item xs={12}>
-          <Grid item xs={2}></Grid>
-          <Grid item xs={8}></Grid>
-          <Grid item xs={2}>
-          </Grid>
-        </Grid>
-
         <Footer></Footer>
+    
       </header>
     </div>
   );
